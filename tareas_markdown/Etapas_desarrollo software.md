@@ -3,6 +3,13 @@
 **Un análisis de requisitos o de requerimientos es la recopilación de las necesidades que tiene una empresa y cómo el software va a solucionarlas, antes de comenzar la fase de desarrollo.**
 
 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://itsqmet.edu.ec/wp-content/uploads/2023/11/desarrollo-de-software.png" width="300px">
+</p>
+</div>
+
+
 ## Estas se dividen en:
 
 ### 1. Análisis de los requisitos.
@@ -14,14 +21,29 @@ Igualmente, la creación de este documento puede ayudar a la empresa a establece
    * **Funcionales** : Son una declaraciiones de cómo debe comportarse un sistema. Define lo que el sistema debe hacer para satisfacer las necesidades o expectativas del usuario. Los requisitos funcionales se pueden considerar como características que el usuario detecta.
    * **No-Funcionales** : Son las restricciones o los requisitos impuestos al sistema. Especifican el atributo de calidad del software. Los requisitos no funcionales se ocupan de problemas como la escalabilidad, la mantenibilidad, el rendimiento, la portabilidad, la seguridad, la confiabilidad y muchos más. Los requisitos no funcionales abordan cuestiones vitales de calidad para los sistemas de software.
  
+<div>
+<p style = 'text-align:center;'>
+<img src="https://ciclosoftware.files.wordpress.com/2010/09/pruebas-de-software.jpg" width="300px">
+</p>
+</div>
+
+
 ### 2. Diseño del sistema
 En esta siguiente fase debemos trazar una estructura interna del software. Para ello, descomponemos y organizamos el sistema en diferentes elementos que puedan elaborarse por separado.
 
 Esto debe dar lugar a la creación de un SDD (Descripción del Diseño de Software). Se trata de un documento en el que se describe la estructura relacional global del sistema, así como una especificación de cuál es la función de cada una de sus partes o cómo combinan entre ellas.
 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://blog.ida.cl/wp-content/uploads/sites/5/2020/06/workshop-sistemadisen%CC%83o-blog-655x470.png" width="300px">
+</p>
+</div>
+
 ### 3.  Implementación
 En la etapa de implementación del proceso de desarrollo de software, traducimos el diseño anterior al código. Se programan los requisitos que se han especificado anteriormente, realizando los algoritmos necesarios.
 Esta es, por tanto, la primera etapa en la que comenzamos a obtener resultados “visibles”.
+
+<img src="https://www.cadlan.com/wp-content/uploads/2023/02/implementacion-de-sistemas-de-informacion.jpg" alt="JuveR" width="300px">
 
 **La codificación** es un subconjunto de la programación y es esencialmente el proceso de implementar el plan de desarrollo de aplicaciones en varios lenguajes comprensibles. Su principal objetivo es facilitar la comunicación entre el usuario y la máquina.
 
@@ -35,6 +57,8 @@ El objetivo principal de la programación es escribir código formalmente para q
    * Estas se dividen en unitarias y de integración :
         * **Unitarias**: Este tipo de prueba se concentra en una parte de toda la aplicación en total aislamiento. Por lo general, es una sola clase o función. Idealmente, la unidad no tiene efectos secundarios. Para que pueda aislarse y probarse lo más fácilmente posible.
         *  **De integración**: Como su nombre indica, las pruebas de integración verifican la conexión entre dos o más módulos y también pueden, en algunos casos, cubrir toda la aplicación. Se realiza después de las pruebas de unidad y sistema en el proceso de prueba de software de extremo a extremo.
+
+
 
 ### 5. Explotación 
 La explotación es la última etapa del ciclo de desarrollo de software lineal. Comprende las fases de instalación y aceptación.
@@ -56,3 +80,6 @@ La documentación de software se define como la información enfocada en la desc
 - Documentación técnica: Acompaña al software y describe varios aspectos de su funcionamiento.
 - Documentación para el usuario final: Son los manuales para el usuario final, administradores de sistemas y personal de soporte, y explican cómo funciona el programa. 
 
+
+
+[![ve al siguiente video](https://img.youtube.com/vi/hIhtMs9P82g/hqdefault.jpg)](https://www.youtube.com/watch?v=hIhtMs9P82g)
