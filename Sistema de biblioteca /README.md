@@ -1,48 +1,59 @@
 <div align="justify";>
 
-# Aplicaciones de transporte
-    
-1. Definir medio de transporte
 
-- El Administrador define los modos de transporte disponibles en la aplicación. Puede agregar, editar o eliminar modos de transporte.
-- El Usuario puede ver los modos de transporte disponibles.
+# Diagrama de Casos de Uso: Sistema de Biblioteca
 
-2. Definir precio del transporte
+## Actores
+- Usuario
+- Bibliotecario
 
-- El Administrador establece el precio de cada modo de transporte. Puede agregar, editar o eliminar precios de transporte.
-- El Usuario puede ver los precios de transporte.
+## Casos de Uso
 
-3. Alta y baja de usuarios
+### 1. Prestar Libro
+**Descripción:** El usuario solicita prestar un libro.
 
-- El Administrador puede agregar o eliminar cuentas de usuario y puede editar la información de la cuenta de usuario, mientras que el usuario puede crear una cuenta en la aplicación.
+**Flujo Principal:**
+1. El usuario solicita prestar un libro.
+2. El sistema verifica la disponibilidad del libro.
+3. El bibliotecario registra el préstamo del libro.
+4. El usuario recibe el libro prestado.
 
-4. Verificar credenciales
+**Flujos Alternativos:**
+- Si el libro no está disponible, el sistema notifica al usuario.
 
-- El usuario ingresa su nombre de usuario y contraseña para iniciar sesión y loa aplicación verifica las credenciales del Usuario.
-- Si las credenciales son correctas, el Usuario puede acceder a la aplicación.
+### 2. Devolver Libro
+**Descripción:** El usuario devuelve un libro prestado.
 
-5. Login
+**Flujo Principal:**
+1. El usuario solicita devolver un libro.
+2. El sistema verifica la validez de la devolución.
+3. El bibliotecario registra la devolución del libro.
+4. El usuario entrega el libro devuelto.
 
-- El usuario ingresa su nombre de usuario y contraseña para iniciar sesión. Si las credenciales son correctas, el usuario puede acceder a la aplicación.
+**Flujos Alternativos:**
+- Si la devolución no es válida, el sistema notifica al usuario.
 
-6. Geoposicionamiento
+### 3. Buscar Libro
+**Descripción:** El usuario busca un libro en el catálogo de la biblioteca.
 
-- La aplicación utiliza la ubicación del Usuario para sugerir destinos cercanos y el usuario puede ver su ubicación actual en el mapa.
+**Flujo Principal:**
+1. El usuario ingresa el título o autor del libro que busca.
+2. El sistema muestra los resultados de la búsqueda.
 
-7. Definir destino
+### 4. Registrar Nuevo Libro
+**Descripción:** El bibliotecario registra un nuevo libro en el sistema.
 
-- El usuario define su destino en la aplicación y esta sugiere rutas y modos de transporte disponibles para llegar al destino.
+**Flujo Principal:**
+1. El bibliotecario ingresa los detalles del nuevo libro.
+2. El sistema registra el libro en el catálogo.
 
-8. Sugerir destinos interesantes
+### 5. Gestionar Usuario
+**Descripción:** El bibliotecario gestiona la información de los usuarios.
 
-- El usuario puede sugerir destinos interesantes para otros usuarios.
-- El Administrador puede aprobar o rechazar las sugerencias de los usuarios.
+**Flujo Principal:**
+1. El bibliotecario accede a la información del usuario.
+2. Puede agregar, modificar o eliminar información del usuario.
 
-9. Modificar ruta
 
-- El usuario puede modificar la ruta sugerida por la aplicación y esta sugiere nuevas rutas y modos de transporte disponibles.
 
-10. Mostrar puntos interés en ruta
-- La aplicación muestra puntos de interés en la ruta sugerida por la aplicación.
-- El Usuario puede ver información detallada sobre los puntos de interés.
 </div>
