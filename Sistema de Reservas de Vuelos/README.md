@@ -26,5 +26,9 @@
 ### 6. Asignar Asientos
 **Descripción:** Los agentes de reservas pueden asignar asientos a pasajeros.
 
+
+![Alt text](image.png)
+
+
 </div>
 
