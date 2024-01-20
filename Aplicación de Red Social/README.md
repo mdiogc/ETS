@@ -70,5 +70,5 @@
 1. El usuario puede ver las notificaciones pendientes.
 2. El usuario puede marcar notificaciones como leídas.
 
-
+![Alt text](image.png)
 </div>
