@@ -54,6 +54,6 @@
 1. El bibliotecario accede a la información del usuario.
 2. Puede agregar, modificar o eliminar información del usuario.
 
-
+![Alt text](image.png)
 
 </div>
