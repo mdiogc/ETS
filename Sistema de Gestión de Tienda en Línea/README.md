@@ -61,4 +61,5 @@
 1. El administrador puede generar reportes de ventas.
 2. El administrador puede revisar estadísticas de ventas.
 
+![Tienda](image.png)
 </div>
