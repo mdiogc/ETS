@@ -70,5 +70,22 @@
 1. El usuario puede ver las notificaciones pendientes.
 2. El usuario puede marcar notificaciones como leídas.
 
+
+
+
+|  Actor | Usuario |
+|---|---|
+| Descripción  | _El usuario puede publicar mensajes en la red social_  |
+| Características  | _Conectar con Amigos_ |
+| Relaciones | _El administrador modera el uso del usuario._  |
+| Referencias | _Que casos de uso realiza_ |   
+|  Notas |  _Notas adicionales_ |
+| Autor  | _Marina Giacomaniello Castro_ |
+|Fecha | _01/23/2024_ |
+
+
+
+
+
 ![Alt text](image.png)
 </div>
