@@ -5,6 +5,33 @@
 - Usuario
 - Administrador
 
+
+
+|  Actor | Usuario |
+|---|---|
+| Descripción  | _El usuario puede publicar mensajes en la red social_  |
+| Características  | _Conectar con Amigos_ |
+| Relaciones | _El administrador modera el uso del usuario._  |
+| Referencias | _Que casos de uso realiza_ |   
+|  Notas |  _Notas adicionales_ |
+| Autor  | _Marina Giacomaniello Castro_ |
+|Fecha | _01/23/2024_ |
+
+
+
+
+|  Actor | Administrador |
+|---|---|
+| Descripción  | _El usuario gestiona contenido red social_  |
+| Características  | _Moderar contenido_ |
+| Relaciones | _Actor_  |
+| Referencias | _Gestionar contenido,_ |   
+|  Notas |  __ |
+| Autor  | _Marina Giacomaniello Castro_ |
+|Fecha | _01/23/2024_ |
+
+
+
 ## Casos de Uso
 
 ### 1. Publicar Mensaje
@@ -69,19 +96,6 @@
 **Flujo Principal:**
 1. El usuario puede ver las notificaciones pendientes.
 2. El usuario puede marcar notificaciones como leídas.
-
-
-
-
-|  Actor | Usuario |
-|---|---|
-| Descripción  | _El usuario puede publicar mensajes en la red social_  |
-| Características  | _Conectar con Amigos_ |
-| Relaciones | _El administrador modera el uso del usuario._  |
-| Referencias | _Que casos de uso realiza_ |   
-|  Notas |  _Notas adicionales_ |
-| Autor  | _Marina Giacomaniello Castro_ |
-|Fecha | _01/23/2024_ |
 
 
 
