@@ -1,10 +1,10 @@
 <div align="justify";>
-# Diagrama de Casos de Uso: Aplicación de Red Social
+
+## Diagrama de Casos de Uso: Aplicación de Red Social
 
 ## Actores
 - Usuario
 - Administrador
-
 
 
 |  Actor | Usuario |
@@ -97,6 +97,18 @@
 1. El usuario puede ver las notificaciones pendientes.
 2. El usuario puede marcar notificaciones como leídas.
 
+ |  Caso de Uso	CU | XXX  |
+  |---|---|
+  | Fuentes  | _Documento que sustenta el caso de uso_  |
+  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Descripción | _Descripción del caso de uso_  |
+  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
+  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
+  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  |  Notas |  _Notas adicionales_ |
+  | Autor  | _Quien desarrolla la especificación del actor_ |
+  |Fecha | _Fecha de la especificación_ |
 
 
 
