@@ -1,2 +1,2 @@
 # ETS
-repositorio dedicado para la asignatura de ets
+Repositorio dedicado para la asignatura de ets
