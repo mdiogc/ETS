@@ -1,6 +1,6 @@
 <div align="justify">
 
-## Diagrama de clases de n cajero automático
+## Diagrama de clases de un cajero automático
 En este diagrama, podemos identificar las siguientes clases:
 
 1. **Cliente**: Representa a un usuario que interactúa con el cajero automático.
