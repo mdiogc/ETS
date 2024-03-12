@@ -5,7 +5,7 @@
 
 <div align=center>
 
-![img](./diagrama-clase-sistema-hospitalario.drawio.png)
+![img](sishosp.drawio.png)
 
 </div>
 </div>
