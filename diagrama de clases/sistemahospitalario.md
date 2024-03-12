@@ -1,4 +1,3 @@
-<div align="justify">
 
 ## Diagrama de clases de un sistema hospitalario
 
@@ -7,5 +6,4 @@
 
 ![img](sishosp.drawio.png)
 
-</div>
 </div>
