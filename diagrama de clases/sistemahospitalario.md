@@ -5,7 +5,7 @@
 
 <div align=center>
 
-![img](sishosp.drawio.png)
+![img](./img/sishosp.drawio.png)
 
 </div>
 </div>
