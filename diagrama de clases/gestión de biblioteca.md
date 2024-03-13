@@ -2,6 +2,6 @@
 
 <div align=center>
 
-![img](./diagrama-clase-biblioteca.drawio.png)
+![img](./img/diagrama-clase-biblioteca.drawio.png)
 
 </div>
