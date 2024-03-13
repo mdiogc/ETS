@@ -1,4 +1,4 @@
-# Diagrama de clase - Reserva vuelo
+# Diagrama de clase - Tienda en linea
 
 <div align=center>
 
