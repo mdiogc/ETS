@@ -1,13 +1,12 @@
-import pytest
-
-from triangulo import Triangulo
-
-@pytest.fixture
-def triangulo1():
-    return Triangulo(3)
-
-def test_area():
-    assert triangulo1.calcular_area() == 3.897
-
-def test_perimetro():
-    assert triangulo1.calcular_perimetro() == 9
+class SocialNetwork:
+    def __init__(self):
+        self.accounts = {}
+        self.current_online_accounts = 0
+        
+    def create_account(self, username: str, password: str) -> None:
+        self.accounts[username] = password
+    
+    def login(self, username: str, password: str) -> bool:
+        if username in self.accounts:
+            return password == self.accounts.get(username)
+        return False
